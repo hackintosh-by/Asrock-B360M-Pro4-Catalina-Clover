@@ -23,10 +23,10 @@ Support&Remote install on Telegram App:<br>
 <h2>Clover – all works – sleep and USB-C.</h2>
 
 
-![Screen Shot 2020-01-23 at 01 55 02](https://user-images.githubusercontent.com/6239630/73441672-6811a980-4364-11ea-9a9d-8fa5576e271b.png)
+
 
 
 <h2>Tests&Benchmarks</h2>
 
-![Screen Shot 2020-01-30 at 03 11 24](https://user-images.githubusercontent.com/6239630/73441975-01d95680-4365-11ea-85fb-dfe8fc4ab023.png)
+
 
