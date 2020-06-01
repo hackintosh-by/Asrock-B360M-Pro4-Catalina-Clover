@@ -1,8 +1,7 @@
 # Asrock-B360M-Pro4-Catalina-Clover
 
 
-It's my version of EFI folders for booting Catalina 10.15.4. U may download latest EFI only from Release tab.
-This is very smart and clean EFI. <br>
+It's my version of EFI folders for booting Catalina 10.15.5. It's clean and smart EFI. 
 
 
 For donate » https://money.yandex.ru/to/41001643979033
